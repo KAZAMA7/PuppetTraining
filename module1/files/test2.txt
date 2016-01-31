@@ -1,0 +1,1 @@
+this file illustrates the example of file copying
